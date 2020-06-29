@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * invidun
 
 > vero eos et accusam et justo duo dolores et ea rebum. Stet clita ka
+
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/>
